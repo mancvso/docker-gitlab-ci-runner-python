@@ -14,12 +14,6 @@ Differences from the original:
 - Python 2.6, 2.7, 3.3 and 3.4 (2.6 & 3.3 from Dead Snakes)
 - pip and virtualenv installed
 
-# Installation
-
-This image is available as a [Trusted Build](https://index.docker.io/u/cardoe/gitlab-ci-runner-python/). Import the build like this:
-
-	docker pull cardoe/gitlab-ci-runner-python
-
 # Usage
 Run like this:
 
